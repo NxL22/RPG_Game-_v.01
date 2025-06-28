@@ -1,0 +1,16 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "Console RPG demo with trivia questions",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "demo": "node demo.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
